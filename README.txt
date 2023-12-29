@@ -1,10 +1,7 @@
-Español:
+-==== Español ====-
 Reparador de Imagen, Componentes y Microsoft Store de Windows (DIMS)
 Descripción
-Este script en PowerShell, proporciona un conjunto de opciones para reparar y mantener un sistema Windows 
-utilizando el servicio DISM (Deployment Image Servicing and Management). 
-Esta herramienta está diseñada para ayudar a los usuarios a solucionar problemas y corregir fallos relacionados 
-con las imágenes del sistema Windows, componentes y la tienda Microsoft Store.
+Este script en PowerShell, proporciona un conjunto de opciones para reparar y mantener un sistema Windows utilizando el servicio DISM (Deployment Image Servicing and Management). Esta herramienta está diseñada para ayudar a los usuarios a solucionar problemas y corregir fallos relacionados con las imágenes del sistema Windows, componentes y la tienda Microsoft Store.
 
 Funcionalidades:
 - Verificar Imagen del Sistema Windows: 
@@ -18,12 +15,43 @@ Funcionalidades:
 - Reparar Microsoft Store: 
     Solucionar problemas relacionados con el funcionamiento de la tienda Microsoft Store, resolviendo problemas que impiden que se abra o funcione correctamente.
 
-Cómo Utilizar
+Cómo utilizar
 
-Ejecutar como Administrador: Inicia PowerShell con derechos de administrador.
-Navegar al Directorio del Script: Dirígete al directorio donde se encuentra el script.
-Ejecutar el Script: Ejecuta el script escribiendo .\DIMS_Fixer.ps1 y sigue las instrucciones que aparecen en pantalla.
+1. Abrir con doble Clic
+2. Aceptar permisos de administrador
+3. Navegar en las opciones
 
 Nota
 Privilegios de Administrador: Algunas operaciones dentro de este script requieren privilegios elevados. 
 Si no se ejecuta como administrador, el script intentará obtener permisos elevados.
+
+-==== English ====-
+
+Windows Image, Components & Microsoft Store (DIMS) Fixer
+
+Description
+
+This PowerShell script provides a set of options to repair and maintain a Windows system using the DISM (Deployment Image Servicing and Management) service. It is designed to assist users in troubleshooting and fixing issues related to Windows system images, components, and the Microsoft Store.
+
+Features
+
+- Check Windows System Image: 
+    Scan and analyze the local Windows system image for corruption or issues.
+- Perform Advanced Scans: 
+    Conduct advanced scans to determine potential problems within the system image.
+- Repair Windows System Image:
+    Resolve issues with the Windows system image by executing repairs based on identified problems.
+- Analyze Microsoft Store Components:
+    Analyze and diagnose issues preventing the Microsoft Store from opening or functioning correctly.
+- Repair Microsoft Store:
+    Fix problems related to the Microsoft Store's functionality, resolving issues that prevent it from opening or working correctly.
+
+How to Use
+
+1. Open by double-clicking
+2. Accept administrator permissions
+3. Navigate through the options
+
+## Note
+
+- **Administrator Privileges:** Some operations within this script require elevated privileges. If not running as an administrator, the script will attempt to obtain elevated permissions.
