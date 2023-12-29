@@ -18,8 +18,8 @@ Este script en PowerShell, proporciona un conjunto de opciones para reparar y ma
 
 ## Como utilizar
 1. Descargar el Sript [AQUI](https://github.com/borferkic/Fix-WindowsIMG/tree/main/files)
-2. Abrir con doble Clic
-3. Aceptar permisos de administrador
+2. Abrir el script con PowerShell
+3. Correr el codigo
 4. Navegar en las opciones
 
 ## Nota
@@ -47,9 +47,9 @@ This PowerShell script provides a set of options to repair and maintain a Window
 
 ##How to Use
 1. Download the script [HERE](https://github.com/borferkic/Fix-WindowsIMG/tree/main/files)
-2. Open by double-clicking
-3. Accept administrator permissions
+2. Open it using Powershell
+3. Run the code
 4. Navigate through the options
 
 ## Note
-- **Administrator Privileges:** Some operations within this script require elevated privileges. If not running as an administrator, the script will attempt to obtain elevated permissions.
+- **Administrator Privileges:** Some operations within this script require elevated privileges. The script will attempt to obtain elevated permissions if not running as an administrator.
