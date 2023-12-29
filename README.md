@@ -17,9 +17,10 @@ Este script en PowerShell, proporciona un conjunto de opciones para reparar y ma
     Solucionar problemas relacionados con el funcionamiento de la tienda Microsoft Store, resolviendo problemas que impiden que se abra o funcione correctamente.
 
 ## Como utilizar
-1. Descargar el Sript [AQUI](https://github.com/borferkic/Fix-WindowsIMG/tree/main/files/Spanish)
-2. Abrir archivo IniciarScript.bat
-3. Naveagar en las opciones
+1. Descargar el Sript [AQUI](https://github.com/borferkic/Fix-WindowsIMG/releases/download/windows/FixingWindows-Spanish.rar)
+2. Descomprimir lso archivos
+3. Abrir archivo IniciarScript.bat
+4. Naveagar en las opciones
 
 ## Nota
 **Privilegios de Administrador:** Algunas operaciones dentro de este script requieren privilegios elevados. 
@@ -46,9 +47,10 @@ This PowerShell script provides a set of options to repair and maintain a Window
     Fix problems related to the Microsoft Store's functionality, resolving issues that prevent it from opening or working correctly.
 
 ##How to Use
-1. Download the script [HERE](https://github.com/borferkic/Fix-WindowsIMG/tree/main/files/English)
-2. Open StartScript.bat File
-3. Navigate through the options
+1. Download the script [HERE](https://github.com/borferkic/Fix-WindowsIMG/releases/download/windows/FixingWindows-English.rar)
+2. Extract the files
+3. Open StartScript.bat File
+4. Navigate through the options
 
 ## Note
 - **Administrator Privileges:** Some operations within this script require elevated privileges. The script will attempt to obtain elevated permissions if not running as an administrator.
