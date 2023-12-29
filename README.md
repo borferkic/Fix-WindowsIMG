@@ -1,3 +1,5 @@
+#Los archivos se encuentarn en la carpeta Files
+
 # -==== Español ====-
 # Reparador de Imagen, Componentes y Microsoft Store de Windows (DIMS)
 
