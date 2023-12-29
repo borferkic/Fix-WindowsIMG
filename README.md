@@ -1,5 +1,5 @@
 # -==== Español ====-
-# Reparador de Imagen, Componentes y Microsoft Store de Windows (DIMS)
+# Reparador de Imagen, Componentes y Microsoft Store de Windows (DISM)
 
 ## Descripción
 Este script en PowerShell, proporciona un conjunto de opciones para reparar y mantener un sistema Windows utilizando el servicio DISM (Deployment Image Servicing and Management). Esta herramienta está diseñada para ayudar a los usuarios a solucionar problemas y corregir fallos relacionados con las imágenes del sistema Windows, componentes y la tienda Microsoft Store.
@@ -29,7 +29,7 @@ Si no se ejecuta como administrador, el script intentará obtener permisos eleva
 
 # -==== English ====-
 
-# Windows Image, Components & Microsoft Store (DIMS) Fixer
+# Windows Image, Components & Microsoft Store (DISM) Fixer
 
 ##Description
 This PowerShell script provides a set of options to repair and maintain a Windows system using the DISM (Deployment Image Servicing and Management) service. It is designed to assist users in troubleshooting and fixing issues related to Windows system images, components, and the Microsoft Store.
