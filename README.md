@@ -22,8 +22,9 @@ Este script en PowerShell, proporciona un conjunto de opciones para reparar y ma
 3. Naveagar en las opciones
 
 ## Nota
-Privilegios de Administrador: Algunas operaciones dentro de este script requieren privilegios elevados. 
+**Privilegios de Administrador:** Algunas operaciones dentro de este script requieren privilegios elevados. 
 Si no se ejecuta como administrador, el script intentará obtener permisos elevados.
+**Necesitas tener Microsoft PowerShell para funcionar (Ya viene instalado en Windows)
 
 # -==== English ====-
 
@@ -51,3 +52,4 @@ This PowerShell script provides a set of options to repair and maintain a Window
 
 ## Note
 - **Administrator Privileges:** Some operations within this script require elevated privileges. The script will attempt to obtain elevated permissions if not running as an administrator.
+- **Need Microsoft Power Shell to work**
