@@ -1,5 +1,3 @@
-#Los archivos se encuentarn en la carpeta Files
-
 # -==== Español ====-
 # Reparador de Imagen, Componentes y Microsoft Store de Windows (DIMS)
 
@@ -19,9 +17,10 @@ Este script en PowerShell, proporciona un conjunto de opciones para reparar y ma
     Solucionar problemas relacionados con el funcionamiento de la tienda Microsoft Store, resolviendo problemas que impiden que se abra o funcione correctamente.
 
 ## Como utilizar
-1. Abrir con doble Clic
-2. Aceptar permisos de administrador
-3. Navegar en las opciones
+1. Descargar el Sript [AQUI](https://github.com/borferkic/Fix-WindowsIMG/tree/main/files)
+2. Abrir con doble Clic
+3. Aceptar permisos de administrador
+4. Navegar en las opciones
 
 ## Nota
 Privilegios de Administrador: Algunas operaciones dentro de este script requieren privilegios elevados. 
@@ -47,9 +46,10 @@ This PowerShell script provides a set of options to repair and maintain a Window
     Fix problems related to the Microsoft Store's functionality, resolving issues that prevent it from opening or working correctly.
 
 ##How to Use
-1. Open by double-clicking
-2. Accept administrator permissions
-3. Navigate through the options
+1. Download the script [HERE](https://github.com/borferkic/Fix-WindowsIMG/tree/main/files)
+2. Open by double-clicking
+3. Accept administrator permissions
+4. Navigate through the options
 
 ## Note
 - **Administrator Privileges:** Some operations within this script require elevated privileges. If not running as an administrator, the script will attempt to obtain elevated permissions.
